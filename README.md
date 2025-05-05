@@ -31,6 +31,6 @@
 
 ---
 
-### 📬 Conect
+### 📬 Connect
 
 - **email**: [gojaedoo9979@gmail.com]
