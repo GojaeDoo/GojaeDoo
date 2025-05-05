@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=250&section=header&text=GojaeDoo%20%7C%20Frontend%20Developer&fontSize=60&fontColor=ffffff&fontAlign=75&animation=blink&desc=Creative%20Frontend%20Developer%20Focused%20on%20UI/UX&descAlign=60&descSize=20&descColor=ffffff"/>
-</p>
-
----
-
 ## 👨‍💻 GojaeDoo | 프론트엔드 개발자
 안녕하세요! 저는 **UI/UX 최적화**와 **반응형 웹 애플리케이션** 개발을 전문으로 하는 **프론트엔드 개발자** **GojaeDoo**입니다.  
 **React, Next.js, TypeScript**를 기반으로 **효율적이고 직관적인 웹 애플리케이션**을 구현합니다.  
