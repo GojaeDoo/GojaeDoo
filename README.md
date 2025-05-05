@@ -1,13 +1,7 @@
-## 👨‍💻 GojaeDoo | 프론트엔드 개발자
-안녕하세요! 저는 **UI/UX 최적화**와 **반응형 웹 애플리케이션** 개발을 전문으로 하는 **프론트엔드 개발자** **GojaeDoo**입니다.  
-**React, Next.js, TypeScript**를 기반으로 **효율적이고 직관적인 웹 애플리케이션**을 구현합니다.  
-끊임없이 **성능 최적화**, **유연한 상태 관리**, **모던 웹 기술**을 학습하고 있습니다.
 
----
-
-### 💼 사용 기술 & 도구
 
 #### **프론트엔드**
+<p align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,7 +10,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-
+</p>
 #### **백엔드 & 데이터베이스**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
