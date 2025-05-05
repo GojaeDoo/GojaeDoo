@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GojaeDoo&show_icons=true&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GojaeDoo&layout=compact&theme=radical&hide_border=true"/>
 </p>
@@ -41,7 +41,3 @@
 ### 📬 연락처
 
 - **이메일**: [minchoi9979@naver.com]
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00bcd4&height=120&section=footer"/>
-</p>
