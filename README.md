@@ -33,7 +33,6 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GojaeDoo&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GojaeDoo&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
