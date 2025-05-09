@@ -29,15 +29,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-
-
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GojaeDoo&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
 ---
 
 ### 📬 Connect
